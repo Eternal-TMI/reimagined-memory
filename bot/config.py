@@ -1,8 +1,8 @@
 class config:
-    BOT_TOKEN = "6389187055:AAE2L5CxZ97wJn_J4c_2M_FRy2rwrxZ6qPQ"                              # Require restart after changing it while bot running
-    # OWNER_ID = "6158188979"                               # Require restart after changing it while bot running
-    APP_ID = "7999622"                           # Require restart after changing it while bot running
-    API_HASH = "0c6b5e046ae4aff8987e95b93c9ce281"  
+    BOT_TOKEN = "6716886799:AAHBlHZ6UsqWb0YwYPpKQShdDwnxGvPtnI4"                              # Require restart after changing it while bot running
+    # OWNER_ID = "2036374959"                               # Require restart after changing it while bot running
+    APP_ID = "6459362"                           # Require restart after changing it while bot running
+    API_HASH = "d7877fa235f24635921e287aaa800507"  
     DATABASE_URL = "sqlite:///my.db"
     SUDO_USERS = "6158188979" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
